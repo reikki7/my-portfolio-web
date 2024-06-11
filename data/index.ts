@@ -7,7 +7,7 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "Gunawan Siswo Kuncoro",
+    title: "Reinata Kidd",
     description: "Undergraduate Computer Science Student",
     className:
       "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh] shadow-gradient",
@@ -84,7 +84,7 @@ export const projects = [
     des: "Designed for creative customization. It provides a user-friendly interface for styling and personalizing images with various decals, colors, and filters.",
     img: "/p2.png",
     iconLists: ["/re.svg", "/tail.svg", "/three.svg"],
-    link: "https://github.com/adrianhajdin/zoom-clone",
+    link: "https://github.com/reikki7/3d-showcase-web",
   },
   {
     id: 3,
@@ -96,7 +96,7 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
+    title: "Animated Apple iPhone 3D Website",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.webp",
     iconLists: ["/re.svg", "/tail.svg", "/three.svg", "/gsap.svg"],
@@ -144,8 +144,8 @@ export const socialMedia = [
   },
   {
     id: 2,
-    name: "linkedin",
-    img: "/link.svg",
-    link: "https://www.linkedin.com/in/gunawan-siswo-kuncoro/",
+    name: "twitter",
+    img: "/twit.svg",
+    link: "https://twitter.com/reinatakidd",
   },
 ];

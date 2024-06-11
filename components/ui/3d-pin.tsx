@@ -2,7 +2,6 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
 import { cn } from "@/utils/cn";
-import { DiVim } from "react-icons/di";
 
 export const PinContainer = ({
   children,

@@ -31,7 +31,7 @@ const Hero = () => {
             words="Buidling Interactive and Responsive UIs"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I&apos;m Gunawan, a Web Developer
+            Hi, I&apos;m Rei, a Web Developer
           </p>
           <a href="#projects">
             <MagicButton
